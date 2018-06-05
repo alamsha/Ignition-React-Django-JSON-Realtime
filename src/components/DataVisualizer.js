@@ -4,11 +4,11 @@ import axios from 'axios'
 import ReactSpeedometer from 'react-d3-speedometer'
 import BootstrapTable from 'react-bootstrap-table-next'
 import 'react-bootstrap-table-next/dist/react-bootstrap-table2.min.css'
-import paginationFactory from '../packages/react-bootstrap-table2-paginator'
+import paginationFactory from 'react-bootstrap-table2-paginator'
 import filterFactory, {
   textFilter,
   Comparator
-} from '../packages/react-bootstrap-table2-filter'
+} from 'react-bootstrap-table2-filter'
 import PropTypes from 'prop-types'
 import shuffle from 'shuffle-array'
 import { Column, Row } from 'simple-flexbox'
