@@ -5,9 +5,7 @@ Check the "Ignition-React-Django-JSON-Realtime/src/backend/" folder to serve Ign
 Demo:
 http://decisive-destruction.surge.sh/
 
-Ignition SCADA -- Inductive Aautomation - 
-
-The most powerful SCADA in the world.
+Ignition SCADA -- Inductive Aautomation - The most powerful SCADA in the world.
 
 https://inductiveautomation.com/
 
